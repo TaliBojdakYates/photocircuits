@@ -1,0 +1,4 @@
+train: latest circuit model
+train 4/5 : failed number
+train 6: numbers latest
+train 8: one older but working circuits

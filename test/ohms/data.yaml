@@ -1,0 +1,6 @@
+train: C:\Users\talib\OneDrive\Desktop\objectDetection\ohms\images
+val: C:\Users\talib\OneDrive\Desktop\objectDetection\ohms\images
+
+
+nc: 1
+names: ['ohms']
