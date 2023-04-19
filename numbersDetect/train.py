@@ -4,6 +4,6 @@ import time
 model = YOLO()
 
 
-results = model.train(data="dataNumbers.yaml", epochs=300)  # train the model
+results = model.train(data="numbersDetect\dataNumbers.yaml", epochs=300)  # train the model
 success = YOLO("number.pt").export(format="onnx")
 
